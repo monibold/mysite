@@ -4,5 +4,5 @@
 This is a github project (repo), which will include:
 
 *HTML
-**CSS
+*CSS
 *JS
